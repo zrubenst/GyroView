@@ -27,7 +27,7 @@ class GyroView: UIView {
     /// Maximum angle that the view will rotate too. Default is 6 (degrees)
     var maximumPressure:CGFloat = 6
     
-    /// Weight that determines how much a view translates depending on what level it is at. Default is 0.01
+    /// Weight that determines how far apart each level is on the (imaginary) z-axis. Default is 0.01
     var levelWeight:CGFloat = 0.01
     
     private var levels:[Int : [UIView]?] = [:]
