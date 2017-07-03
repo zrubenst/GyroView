@@ -1,6 +1,6 @@
 # GyroView
 
-Emulate the Apple TV 3D Parallax effect for iPhone and iPad
+Emulate the Apple TV 3D Parallax effect on iPhone and iPad
 
 ![](demonstration.gif)
 
